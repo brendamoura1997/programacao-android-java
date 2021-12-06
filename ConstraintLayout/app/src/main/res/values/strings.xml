@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="abc">def</string>
+    <string name="titulo_noticia">Aprenda sobre edição de imagens</string>
+    <string name="data_post">07/01/2020</string>
+    <string name="texto_noticia">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor
+        in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Duis aute irure dolor in reprehenderit
+        in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="nome_autor">Brenda Moura</string>
+    <string name="botao_anterior">anterior</string>
+    <string name="botao_proximo">proximo</string>
+</resources>
